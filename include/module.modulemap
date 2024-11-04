@@ -1,0 +1,4 @@
+module VProxyChecksum {
+    header "../vproxy_checksum.h"
+    export *
+}
